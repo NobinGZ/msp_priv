@@ -33,3 +33,34 @@
 [15:08:21] [Server thread/INFO]: Made NobinGZ a server operator
 [15:08:25] [Server thread/INFO]: NobinGZ issued server command: /tps
 [15:08:29] [Server thread/INFO]: NobinGZ issued server command: /plugins
+[15:20:02] [Server thread/INFO]: NobinGZ was slain by Zombie
+[15:23:37] [Server thread/INFO]: NobinGZ issued server command: /gamemode creative
+[15:23:37] [Server thread/INFO]: [NobinGZ: Set own game mode to Creative Mode]
+[15:25:58] [Server thread/INFO]: [STDOUT] [org.spigotmc.RestartCommand] Startup script './start.sh' does not exist! Stopping server.
+[15:25:58] [Server thread/INFO]: NobinGZ lost connection: Server is restarting
+[15:25:58] [Server thread/INFO]: NobinGZ left the game
+[15:25:58] [Server thread/INFO]: Stopping server
+[15:25:58] [Server thread/INFO]: Saving players
+[15:25:58] [Server thread/INFO]: Saving worlds
+[15:25:58] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:25:58] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[15:25:58] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[15:25:58] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[15:26:00] [Server thread/INFO]: [ChunkHolderManager] Saved 1687 block chunks, 423 entity chunks, 0 poi chunks in world 'world' in 2.01s
+[15:26:00] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:26:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:26:00] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[15:26:00] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[15:26:00] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[15:26:00] [Server thread/INFO]: [ChunkHolderManager] Saved 2 block chunks, 17 entity chunks, 0 poi chunks in world 'world_nether' in 0.01s
+[15:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:26:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:26:01] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[15:26:01] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[15:26:01] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[15:26:01] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.02s
+[15:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:26:01] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[15:26:01] [Server thread/INFO]: Flushing Chunk IO
+[15:26:01] [Server thread/INFO]: Closing Thread Pool
+[15:26:01] [Server thread/INFO]: Closing Server
